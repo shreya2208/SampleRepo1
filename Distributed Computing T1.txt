@@ -1,0 +1,26 @@
+Distributed Computing T1
+--------------------------
+1. Comparative analysis of Cloud, Grid and Distributed Computing on working perspective
+- Figure 1: Classification of Distributed Computing 
+- Fig.3 Grid Computing Environment 
+- Table: Summary according to Paradigms
+
+
+2. Cloud Computing Virtualization of Resources Allocation for Distributed System {Literature survey paper}
+- resource provisioning and virtualization
+- cloud computing is a kind of parallel and distributed syatem
+- using cc, users lease resources instead of buying
+- CHARACTERISTICS OF CC
+- IaaS -role-example
+- Paas -
+- SaaS -
+- Main issues: Request execution time and VM availability
+- Iaas, Paas, SaaS diagram
+- what is CC virtualization: described as a software that lets a single hardware calculating devices to be automatically partioned into multiple devices (VMs)
+- diff forms of virtualization: storage, server, appliance, desktop and network
+- Traditinal architecture and VM Archi diagram
+- Resource provisioning and reallocation: mapping virtualised resources to physical one
+- Table: 15 various proposed scheduling algorithms for virtualization of resource allocation
+This paper is a review of different existing VM scheduling algorithms and resource allocation techniques
+
+3. Task scheduling techniques in cloudcomputing

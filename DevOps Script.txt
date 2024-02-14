@@ -1,0 +1,46 @@
+DevOps Script -SPRINGBOOT
+
+
+--------
+WHAT ? WHY? BENEFITS
+1. Spring Boot is a powerful and flexible framework for building Java-based applications. 
+2. It aims to simplify the development process by providing a convention-over-configuration approach, 
+3. allowing developers to focus on writing business logic rather than dealing with complex configuration.
+
+key features
+1. easy to setup: easy to setup new project, built-in web-server, minimal configuration,helps get quickly started
+2. Auto-configuration: eliminates the need for manual configuration and reduces boilerplate code.
+3. Production ready: includes wide range of features to deploy production-ready applications, built-in support for monitoring, health checks, logging
+4. Microservices support: Spring Boot is well-suited for building microservices-based architectures with features like load balancing
+
+----------
+ADVANTAGES, DISADV
+
+
+--------------
+FRAMEWORKS
+1. Spring MVC: for building web applications, It provides a model-view-controller architecture
+2. Spring Data: It provides a consistent and easy-to-use API for working with different data sources (Relational and non-relational DBs)
+3. Spring Security - a widely-used framework for implementing authentication and authorization in Java applications
+---------
+
+ANNOTATIONS: Ready to use
+Annotations are a way to provide metadata to the Spring Boot framework.
+- configure various aspects
+- reduce boilerplate code
+
+Commonly Used Annotations
+@SpringBootApplication: This annotation is used to mark the main class of a Spring Boot application.
+@RestController: This annotation is used to mark a class as a REST controller, which handles HTTP requests.
+@RequestMapping: This annotation is used to map HTTP requests to specific methods in a controller.
+@Autowired: This annotation is used to inject dependencies into a class.
+@Service: This annotation is used to mark a class as a service component.
+@Repository: This annotation is used to mark a class as a data repository.
+@Component: This annotation is used to mark a class as a Spring component.
+
+
+
+------
+DEMO
+DevOps T1 - eclipse- restful-web-services: run as java app
+http://localhost:8090/users/in28ins/todos
